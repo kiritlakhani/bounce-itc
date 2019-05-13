@@ -37,3 +37,43 @@ html, body, canvas {
 }
 
 
+@font-face {
+	font-family: 'impact';
+	src: url('fonts/impact.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Helvetica-Bold';
+	src: url('fonts/helvetica-bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Helvetica-BoldOblique';
+	src: url('fonts/helvetica-boldoblique.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'helvetica-compressed-5871d14b6903a';
+	src: url('fonts/helvetica-compressed-5871d14b6903a.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'helvetica-light-587ebe5a59211';
+	src: url('fonts/helvetica-light-587ebe5a59211.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'helvetica-rounded-bold-5871d05ead8de';
+	src: url('fonts/helvetica-rounded-bold-5871d05ead8de.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Helvetica';
+	src: url('fonts/helvetica.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Helvetica-Oblique';
+	src: url('fonts/helvetica-oblique.ttf') format('truetype');
+}
+
