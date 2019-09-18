@@ -7,8 +7,6 @@ html, body {
 	color: white;
 }
 
-canvas, canvas * {image-rendering: optimizeSpeed;}
-
 html, body, canvas {
 	touch-action: none;
 	touch-action-delay: none;
